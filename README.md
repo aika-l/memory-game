@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Demo
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/67886657/131965768-54bd02a7-7cdb-4504-ba43-eb097fdebc95.gif)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -65,7 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-https://memory-game-aika.netlify.app/
+
 
 ### `npm run build` fails to minify
 
