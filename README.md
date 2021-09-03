@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/67886657/131965768-54bd02a7-7cdb-4504-ba43-eb097fdebc95.gif)
 
-## Deployed version:
+# Deployed version:
 
 https://memory-game-aika.netlify.app/
 
